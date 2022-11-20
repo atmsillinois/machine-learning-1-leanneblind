@@ -1,4 +1,4 @@
-# ATMS 523 Module-3
+# ATMS 523 Module-5
 
 This project investigates different machine learning models of varying complexity using Python's [Scikit-Learn Library](https://scikit-learn.org/stable/about.html) to predict the target variable of rain rate from different polarimetric radar parameters calculated from data collected for several years by a disdrometer in Huntsville, Alabama. This project looks at the R sqaured values and the root mean squared errors between the baseline, a multiple linear regression model, a polynomial regression model, and a random forest regression model.
 
